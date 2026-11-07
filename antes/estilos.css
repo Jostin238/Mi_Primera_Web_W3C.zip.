@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    background-color: #eeeeee;
+    color: gray;
+}
+header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+a {
+    color: lightgray;
+    margin-right: 15px;
+}
+main {
+    padding: 20px;
+}
+button {
+    background-color: lightgray;
+    padding: 8px;
+}
+footer {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
